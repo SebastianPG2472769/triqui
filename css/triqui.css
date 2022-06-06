@@ -1,0 +1,25 @@
+.rojo{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
+.verde{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    float: left;
+}
+.blanco{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+}
+.cuadro{
+    width: 150px;
+    height: 150px;
+    border-color: black;
+    border-style: solid;
+
+}
